@@ -1,5 +1,5 @@
 {
-   "name": "RIAS-GREMORY",
+   "name": "Ameeca",
    "version": "1.3.3",
    "description": "Multi device whatsapp bot by Toxxic Boy.",
    "main": "index.js",
@@ -14,7 +14,7 @@
       "postinstall": "npx puppeteer@latest install --y"
    },
 
-"author": "Toxic1239",
+"author": "Davelc",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
